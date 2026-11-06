@@ -1431,3 +1431,14 @@ print(a)
 - а) `count()` без аргументов
 - б) `len()`
 - в) `sum()`
+
+https://leetcode.com/problems/single-number/description/?envType=problem-list-v2&envId=array
+https://leetcode.com/problems/contains-duplicate/description/?envType=problem-list-v2&envId=array
+https://leetcode.com/problems/move-zeroes/submissions/1306187125/?envType=problem-list-v2&envId=array
+https://leetcode.com/problems/evaluate-reverse-polish-notation/description/?envType=problem-list-v2&envId=array (читать про стек [stack] )
+http://leetcode.com/problems/longest-common-prefix/description/?envType=problem-list-v2&envId=array
+https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=problem-list-v2&envId=array
+https://leetcode.com/problems/remove-element/description/?envType=problem-list-v2&envId=array
+https://leetcode.com/problems/plus-one/description/?envType=problem-list-v2&envId=array
+https://leetcode.com/problems/rotate-array/description/?envType=problem-list-v2&envId=array
+https://leetcode.com/problems/merge-sorted-array/description/?envType=problem-list-v2&envId=
